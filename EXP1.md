@@ -92,7 +92,18 @@ def iterate():
 iterate()
 ```
 ### Output:
-
+i)DO...WHILE
+![image](https://github.com/user-attachments/assets/34231620-cd07-41b7-a4e8-d16aaacc2da4)
+![image](https://github.com/user-attachments/assets/e240d6e6-727b-4746-8fde-3599c0f29222)
+ii)WHILE...DO
+![image](https://github.com/user-attachments/assets/41d03de3-7b7f-4507-aced-e80d3e8b8512)
+![image](https://github.com/user-attachments/assets/0cfea109-c051-48ef-9e66-d1dba335563d)
+iii) SWITCH
+![image](https://github.com/user-attachments/assets/70f0baa4-9272-43d1-86a3-02dd02d94895)
+iv)IF ELSE
+![image](https://github.com/user-attachments/assets/73450c00-1bee-4b2a-a672-9b23499bc616)
+v) FOR
+![image](https://github.com/user-attachments/assets/939ad955-780c-44b5-b986-a55eb968dcd6)
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
