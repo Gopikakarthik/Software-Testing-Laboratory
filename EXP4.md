@@ -35,8 +35,7 @@ else:
  print("Enter a Positive Integer.")
 ```
 ### Output:
-
-![stl 4](https://github.com/user-attachments/assets/87f1b9de-2cde-4696-90a9-87d19ec804a4)
+![image](https://github.com/user-attachments/assets/1bd78a44-25f6-4bf5-be05-d005755e13a2)
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
