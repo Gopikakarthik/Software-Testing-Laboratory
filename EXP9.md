@@ -1,11 +1,10 @@
 # Ex.No: 9  Pytest program for Sum of Digits 
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 1/10/23                                                                           
+### REGISTER NUMBER :212222040046 
 ### AIM: 
 To write a python program for sum of digits and validate the code using Pytest. 
 ### Algorithm:
-
 1. Write the python program for sum of digits of a number. 
 2. Make sure that function name should be “def test_*():” and the line to be tested 
 should have assert keyword at the beginning. 
@@ -15,21 +14,20 @@ should have assert keyword at the beginning.
 6. Stop the program.
 
 ### Program:
-
-
-
-
-
-
-
-
-
-
-
+```
+def sumOfDigits(n):
+sum = 0
+while (n != 0):
+sum = sum + int(n % 10)
+n = int(n/10)
+return sum
+def test_1():
+assert sumOfDigits(123) == 6
+def test_2():
+assert sumOfDigits(256) == 2
+```
 ### Output:
-
-
-
+![Screenshot 2024-11-18 190454](https://github.com/user-attachments/assets/7c297ac0-5ea2-4b7d-bd3e-fb3d6575a997)
 ### Result:
 Thus, the python program for sum of digits is tested using pytest and executed and output is verified successfully.
 
